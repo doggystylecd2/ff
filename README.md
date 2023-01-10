@@ -37,6 +37,4 @@ EAST INDIA INVESTMENTS LIMITED (07300007)
 BANSOLS 888 LIMITED (07387675)
 BIG EMAIL LIMITED (07391842)
 
-<opengraph-image.jpg>
-ANSWERBUY LIMITED personal appointments - Find and update company information - GOV.UK
-find-and-update.company-information.service.gov.uk
+https://find-and-update.company-information.service.gov.uk/officers/O_QvSNogWVWAx5QGJs4_jmxwvCU/appointments

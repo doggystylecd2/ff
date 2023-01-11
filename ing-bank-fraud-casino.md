@@ -8,7 +8,7 @@ wip:
 - owns Orange, and has a big part in many of the Netherland's telecom (such as manafacturing for routers for KPN as Sagem and so on)
 - direct ties with scam operations like Mollie.nl, Paysoniq, Payvision.nl
 - still facillitates illegal gambling through iDEAL products still being offered by the likes of playtech (india) and others but also to bigger dutch/belgium operators as Circus (jacks casino) and such
-- it is unlikely that state secretary, lawyer, Fred Teeven, would've been able to subdue 
+- it is unlikely that state secretary, lawyer, Fred Teeven, would've been able to subdue and go into business with "just caisno people" to be hard and basically sole lobbyist on television in favor ofa gambling
 - stolen products from me personally can be found under some newer casino's
 - links to lion branded operators should be frowned upon, as many use the universally 'lion' UI frontend kit directly into their products (this most likely refers to what ING calls internally "labs" and "affiliates") such as leovegas (live casino provided by David George Wainwright/Ezugi/Hollywoodtv.com for example) but also MGM and more
 - responsible for edobet.com, with people like Vlad Suciu (romania), Laurence Phillipe (dutch-french) and lead by David George Wainwright (u.k.)

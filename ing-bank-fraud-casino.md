@@ -5,9 +5,9 @@ wip:
 - ing owns very many ip's in comparison to any other bank within netherlands (to perform BGP neighbor fraud)
 - owns triodos bank, which is directly liasioned with ezugi (live casino game provider, run by David G. Wainwright (which runs fraud in it's totallity I would say most), triodos is also directly linked with GVO bank
 - history of many rule violations when comes to facillitating (at the very least) illegal gambling, in most cases turning out a very high compensation fee (once it does break)
-- owns Orange, and has a big part in many of the Netherland's telecom (such as manafacturing for routers for KPN and so on)
+- owns Orange, and has a big part in many of the Netherland's telecom (such as manafacturing for routers for KPN as Sagem and so on)
 - direct ties with scam operations like Mollie.nl, Paysoniq, Payvision.nl
-- still facillitates illegal gambling through iDEAL products still being offered by the likes of playtech (india) and others but also to bigger dutch/belgium operators as Cirrus (jacks casino) and such
+- still facillitates illegal gambling through iDEAL products still being offered by the likes of playtech (india) and others but also to bigger dutch/belgium operators as Circus (jacks casino) and such
 - it is unlikely that state secretary, lawyer, Fred Teeven, would've been able to subdue 
 - stolen products from me personally can be found under some newer casino's
 - links to lion branded operators should be frowned upon, as many use the universally 'lion' UI frontend kit directly into their products (this most likely refers to what ING calls internally "labs" and "affiliates") such as leovegas (live casino provided by David George Wainwright/Ezugi/Hollywoodtv.com for example) but also MGM and more

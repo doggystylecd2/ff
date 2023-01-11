@@ -15,6 +15,10 @@ wip:
 - has seperate hosting location next to amsterdam gateway (AMS-IX) to filter gambling games under the names of (with or without their permission, is easy to find out): MESSAGEBIRD (Mollie), TATA, ORANGE, VODAFONE.IS (libertel), AIRTEL.IN (india)
 - loves high risk payments, such as facillitating Pornhub.com and others
 - doesnt care about illegal gamblign areas like Turkey (imajbet etc directly bearing INGDirect's payment logo/modules)
+- hunger for data, actually (somewhat) functioning businesses are being used as cover for data (banking details, profiles), per example you can take, magazin collabaration company (wpg.nl)[https://www.wpg.nl], where it provides not only for legitimate businesses services but also in example for Orange/Hollywood's Supercasino brand in South africa as "happinez" (referring to it's labor force under (happening.xyz)[happeningxyz]), Leopold (logo is dead on) referring to LeoVegas, Witte Leeuw (translates to "White Lion" and seems to refer to the white wash going on and jokingly not giving a damn, Xander referring to casino royale, royalehosting's owner 
+
+
+
 
 such big dutch player like this, especially as bank, should be of a concern to dutch free society in terms of open and fair competition within telecom/internet/adult/gambling industry guarantees our data and money (like currently is) is being shipped of to foreign countries
 
